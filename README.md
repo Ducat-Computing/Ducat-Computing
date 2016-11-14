@@ -1,0 +1,2 @@
+# Ducat
+Lets Git Started
